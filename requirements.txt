@@ -1,0 +1,2 @@
+# No dependencies - we're minimalists here
+# (Also, dependencies are just future problems)
